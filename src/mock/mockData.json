@@ -1,0 +1,10 @@
+{
+    "questions": [
+      { "id": 1, "user": "User1", "question": "What are the benefits of Ayurveda?", "likes": 10, "comments": [] },
+      { "id": 2, "user": "User2", "question": "Can Ayurveda help with migraines?", "likes": 5, "comments": [] }
+    ],
+    "thoughts": [
+      { "id": 1, "doctor": "Dr. Sharma", "thought": "Ayurveda is a holistic approach to health.", "likes": 15 }
+    ]
+  }
+  
