@@ -6,6 +6,8 @@ import ThoughtsScreen from './src/screens/ThoughtsScreen';
 import { ForumProvider, ForumContext } from './src/context/ForumContext'
 import mockData from './src/mock/mockData.json';
 
+//ForumScreens
+
 const Tab = createBottomTabNavigator();
 
 const App = () => {
