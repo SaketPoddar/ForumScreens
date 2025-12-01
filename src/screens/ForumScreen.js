@@ -159,7 +159,7 @@ const ForumScreen = () => {
         <ScrollView showsVerticalScrollIndicator={false}>
           {/* Banner */}
           <View style={styles.banner}>
-            <Text style={styles.bannerTitle}>Welcome to Amrutam Forum 👋</Text>
+            <Text style={styles.bannerTitle}>Welcome to Medical Forum 👋</Text>
             <Text style={styles.bannerSubtitle}>
               Join discussions, ask questions, and learn from the community.
             </Text>
